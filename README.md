@@ -35,7 +35,7 @@ motto: "Building and shipping real-world systems that power businesses"
 
 I'm a self-taught **Software Developer** and **Team Lead** based in Islamabad. I specialize in building **high-performance interactive 3D web applications**, **C# .NET desktop tools**, and **cloud-deployed enterprise software**.
 
-From **SaaS BIM/CAD viewers** deployed on AWS to **HR assessment engines** used across multiple organizations and **government web portals**, I take ideas from architecture to live deployment.
+From **SaaS BIM/CAD viewers** deployed on AWS to **Flowdesk (Complete HRMS & Recruitment Platform)** and **government web portals**, I take ideas from architecture to live deployment.
 
 ---
 
@@ -71,8 +71,8 @@ From **SaaS BIM/CAD viewers** deployed on AWS to **HR assessment engines** used 
 | Project | Description | Tech Stack | Live Link |
 | :--- | :--- | :--- | :--- |
 | 🏗️ **Frame-Smart** | Cloud-based BIM/IFC/GLB/SKP 3D Viewer & collaboration SaaS platform | `.NET Core`, `Three.js`, `AWS`, `WebGL` | [Live Site](https://frame-smart.com/) |
+| 💼 **Flowdesk** | Complete HRMS & Recruitment Platform (ATS, Attendance, Payroll & Employee Portal) | `PHP`, `MySQL`, `REST API`, `Railway` | [Live Site](https://flowdesk-hrms-production.up.railway.app/) |
 | 📖 **Hamaari Urdu** | Urdu literature and language SPA platform + mobile app | `Vite`, `JavaScript`, `GCP` | [Live Site](https://hamaariurdu.com/) |
-| 🧠 **QuizPro** | Enterprise HR recruitment, exam proctoring & CV parsing platform | `PHP`, `MySQL`, `REST API` | [Live Demo](https://quizapp.alwaysdata.net/public/) |
 | 🏭 **Scotfab** | Light gauge steel warehouse production tracking with 3D model visualization | `Three.js`, `PHP`, `MySQL` | [Live Site](https://scotfab.scottsdalesteelframes.com/) |
 | 🏛️ **PAL Government** | Official Pakistan Government institute website and digital book repository | `ASP.NET`, `MySQL`, `CMS` | [Live Site](https://pal.gov.pk/) |
 | 🧩 **ImagePuzzler** | Open-source C# library for image puzzle generation and solving | `C#`, `.NET` | [GitHub](https://github.com/nooraliqureshi/ImagePuzzler) |
